@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MeesumAliQazalbash
-- 👀 I’m interested in Data Science, Computer Vision, and Artificial Intelligence
-- 🌱 I’m currently doing BS Computer Science from Habib University
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science, Computer Vision, Artificial Intelligence and Machine Learning
+- 🌱 Rising sophomore at Habib University
+<!-- - 💞️ I’m looking to collaborate on  -->
+- 📫 How to reach me www.linkedin.com/in/meesumaliqazalbash, mesumali26.ma@gmail.com
 
 <!---
 MeesumAliQazalbash/MeesumAliQazalbash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
