@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeesumAliQazalbash
-- 👀 I’m interested in Data Science, Computer Vision, Artificial Intelligence and Machine Learning
-- 🌱 Rising sophomore at Habib University
+- 👀 I’m interested in Data Science, Computer Vision, Artificial Intelligence, Machine Learning and Deep Learning
+- 🌱 Rising Junior at Habib University
 <!-- - 💞️ I’m looking to collaborate on  -->
 - 📫 How to reach me www.linkedin.com/in/meesumaliqazalbash, mesumali26.ma@gmail.com
 
