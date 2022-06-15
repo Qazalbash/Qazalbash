@@ -1,81 +1,38 @@
-### Hi there, I'm Meesum Ali Qazalbash - aka MAQ 👋
+<h1 align="center">Hi 👋, I'm Meesum Ali Qazalbash</h1>
+<h3 align="center">Programmer, Teacher and Thinker</h3>
 
-## I'm a Coder, Student, and a Teacher !
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meesumaliqazalbash&label=Profile%20views&color=0e75b6&style=flat" alt="meesumaliqazalbash" /> </p>
 
-<!-- - 😎 One Developer Army 💪💪 -->
-<!-- - 🔭 I’m currently working on a [lot of projects](https://jazzel.me/) !! -->
-<!-- - 🌱 I’m currently learning everything 🤣 -->
-<!-- - 👯 I’m looking to collaborate with other content creators -->
-<!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
-<!-- - ⚡ Fun fact: I love to code and play games and I'm also a funny person 🤣🤣 -->
-- 📖 Doing bachelors in Computer Science from Habib University
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meesumaliqazalbash" alt="meesumaliqazalbash" /></a> </p>
 
-### Connect with me:
+<p align="left"> <a href="https://twitter.com/meesumqazalbash" target="blank"><img src="https://img.shields.io/twitter/follow/meesumqazalbash?logo=twitter&style=for-the-badge" alt="meesumqazalbash" /></a> </p>
 
-<!-- [<img align="left" style="fill: red !important;" alt="JAZZ | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img style="fill: red;" align="left" alt="JAZZ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img style="fill: red;" align="left" alt="MAQ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img style="fill: red;"  align="left" alt="MAQ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- [<img style="fill: red;"  align="left" alt="JAZZ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img style="fill: red;"  align="left" alt="JAZZ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/facebook.svg" />][facebook] -->
+- 🔭 I’m currently working on [Computer Graphics](https://github.com/MeesumAliQazalbash/Computer-Graphics-Tehqiq.git)
 
-<br />
+- 👯 I’m looking to collaborate on **Open source projects**
 
-### Languages and Tools:
+- 📫 How to reach me **mesumali26.ma@gmail.com**
 
-<div>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<!-- <img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.svg" /> -->
-<img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c.svg" />
-<!-- <img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.svg" /> -->
-<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp.svg" />
-<!-- <img align="left" alt="php" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php.svg" /> -->
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" />
-<!-- </div>
-<br />
-<br />
-<div>
-<img align="left" alt="django" width="26px" src="https://avatars3.githubusercontent.com/u/27804?s=200&v=4" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
- <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
-</div>
+- ⚡ Fun fact **I love to read about politics.**
 
-<br />
-<br />
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-Here are some tools I am currently using + ever worked with.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/meesumqazalbash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meesumqazalbash" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/meesumaliqazalbash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meesumaliqazalbash" height="30" width="40" /></a>
+<a href="https://instagram.com/maqazalbash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maqazalbash" height="30" width="40" /></a>
+<a href="https://medium.com/@mesumali26-ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mesumali26-ma" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/maq2628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maq2628" height="30" width="40" /></a>
+</p>
 
-<!-- - **FrontEnd Technologies**: HTML, CSS/SCSS/SASS, Bootstrap, Materialize, Tailwind CSS, ReactStrap, Material-UI, React, Gatsby, Next, Flutter-UI -->
-<!-- - **BackEnd Technologies:** NodeJS, Express, ASP.NET, PHP, Django, Netlify-Functions, Flutter, Laravel, React-Native, Android Studio -->
-- **Databases**: MySQL, MongoDB/Mongoose
-- **Programming Languages**: Python, C/C++, Julia
-- **Version Control**: Git and GitHub
-<!-- - **DevOps**: Heroku, GitHub, GitHub Actions, Netlify, DigitalOcean, Dockers -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<!-- ### Awards
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meesumaliqazalbash&show_icons=true&locale=en&layout=compact" alt="meesumaliqazalbash" /></p>
 
-- 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meesumaliqazalbash&show_icons=true&locale=en" alt="meesumaliqazalbash" /></p>
 
-### Certificates
-
--  -->
-
----
-
-<!-- [website]: https://jazzel.me/ -->
-[twitter]: https://twitter.com/MeesumQazalbash
-<!-- [youtube]: https://www.youtube.com/channel/UCZdEw0PY5f0llDe5iOutwHQ?view_as=subscriber
-[instagram]: https://www.instagram.com/mehmoodjazzel/ -->
-[linkedin]: https://www.linkedin.com/in/meesumaliqazalbash
-<!-- [facebook]: https://www.facebook.com/jazzel.mehmood/ -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meesumaliqazalbash&" alt="meesumaliqazalbash" /></p>
