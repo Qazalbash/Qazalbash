@@ -20,15 +20,23 @@
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@MeesumAliQazalbash&compact=True"/>
 </a> -->
+<hr>
+<details>
+  <summary>📊GitHub Stats :</summary> 
+  <p align="center">
+    <image src="https://github-readme-stats.vercel.app/api?username=MeesumAliQazalbash&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+    <image src="https://github-readme-streak-stats.herokuapp.com/?user=MeesumAliQazalbash&theme=radical&hide_border=false">
+    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeesumAliQazalbash&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  </p>
+</details>
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=MeesumAliQazalbash&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MeesumAliQazalbash&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeesumAliQazalbash&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MeesumAliQazalbash&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
+<details>
+    <summary>🏆GitHub Trophies</summary>
+    <p align="center">
+        <image src="https://github-profile-trophy.vercel.app/?username=MeesumAliQazalbash&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4">
+    </p>
+</details>
+<hr>
 
   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/meesumqazalbash) 
