@@ -17,10 +17,13 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: last_30_days
-          COMMIT_MESSAGE: Updated the Readme
+          SHOW_PROJECTS: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_LOC_CHART: "False"
           SHOW_TOTAL: "True"
-          SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_EDITORS: "True"
-          SHOW_OS: "True"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_COMMIT: "True"
+#           COMMIT_MESSAGE: Updated the Readme
+#           SHOW_LANGUAGE_PER_REPO: "True"
+#           SHOW_EDITORS: "True"
+#           SHOW_OS: "True"
+#           SHOW_DAYS_OF_WEEK: "True"
+#           SHOW_COMMIT: "True"
