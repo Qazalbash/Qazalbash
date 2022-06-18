@@ -19,3 +19,8 @@ jobs:
           TIME_RANGE: last_30_days
           COMMIT_MESSAGE: Updated the Readme
           SHOW_TOTAL: true
+          SHOW_LANGUAGE_PER_REPO: true
+          SHOW_EDITORS: true
+          SHOW_OS: true
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_COMMIT: true
