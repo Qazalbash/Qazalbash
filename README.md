@@ -1,5 +1,5 @@
 # 💫About Me :
-- I’m currently working on Computer Graphics.
+- I’m currently working on myself.
 - I’m looking to collaborate on Open source projects.
 - How to reach me at mesumali26.ma@gmail.com
 - Fun fact I love to read about politics.
