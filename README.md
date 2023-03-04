@@ -5,6 +5,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qazalbash" alt="qazalbash" /></a> </p>
 
+<p align="center">
+<a href="https://github.com/Qazalbash">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Qazalbash&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a></p>
+
 -   🌱 I’m currently learning **CUDA and OpenCL.**
 
 -   👯 I’m looking to collaborate on **Open-source projects.**
@@ -43,4 +48,12 @@
 	<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="latex.svg" alt="latex" width="80" height="40"/> </a>
 </p>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qazalbash&show_icons=true&locale=en&layout=compact" alt="qazalbash" /></p>
+<!-- <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qazalbash&show_icons=true&locale=en&layout=compact" alt="qazalbash" /></p>
+ -->
+ 
+ My Github Stats
+<p align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qazalbash&theme=dracula" alt="qazalbash" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Qazalbash&theme=dracula" alt="qazalbash" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qazalbash&theme=dracula" alt="qazalbash" />
+</p>
