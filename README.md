@@ -4,7 +4,7 @@ I am a fresh graduate (graduated in June 2024 🎓) in Computer Science + Mathem
 
 I'm passionate about numerical/accelerated computing ⚡, machine/deep learning 🤖, and physics informed machine learning 🌩️. During my undergrad, I explored various projects (available on my GitHub).
 
-Currently, I'm working on Bayesian Inference for Binary Black Holes with LIGO 🚀, developing a device-agnostic Python package, [GWKokab](https://github.com/gwkokab/gwkokab) 📦, using [JAX](https://jax.readthedocs.io/en/latest/installation.html).
+Currently, I'm working on Bayesian Inference for Binary Black Holes with LIGO 🚀, developing a device-agnostic Python package, [GWKokab](https://github.com/gwkokab/gwkokab) (not public yet) 📦, using [JAX](https://jax.readthedocs.io/en/latest/installation.html).
 
 Got an idea? Let's chat! 💭
 
