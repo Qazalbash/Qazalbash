@@ -1,6 +1,6 @@
 ### Hey! I'm [@MeesumQ](https://twitter.com/MeesumQ) (Meesum Qazalbash) 👋
 
-I am a fresh graduate (graduated in June 2024 🎓) in Computer Science (major) + Mathematics (minor), from [Habib University](https://habib.edu.pk/), Pakistan 🇵🇰. I worked as a Research Assistant in the Computer Science Department at [Habib University](https://habib.edu.pk/).
+I am a fresh graduate (graduated in June 2024 🎓) in Computer Science (major) + Mathematics (minor), from [Habib University](https://habib.edu.pk/), Pakistan 🇵🇰. I work as a Research Assistant in the Computer Science Department at [Habib University](https://habib.edu.pk/).
 
 I'm passionate about numerical/accelerated computing ⚡, machine/deep learning 🤖, and physics-informed machine learning 🌩️. During my undergrad, I explored various projects (available on my GitHub).
 
