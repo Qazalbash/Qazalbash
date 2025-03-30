@@ -1,15 +1,14 @@
-### Hey! I'm [@MeesumQ](https://twitter.com/MeesumQ) (Meesum Qazalbash) 👋
+### About Meesum Qazalbash (ميثم قزلباش)
 
-I am a fresh graduate (graduated in June 2024 🎓) in Computer Science (major) + Mathematics (minor), from [Habib University](https://habib.edu.pk/), Pakistan 🇵🇰. I work as a Research Assistant in the Computer Science Department at [Habib University](https://habib.edu.pk/).
+Meesum Qazalbash holds a degree in Computer Science (major) and Mathematics (minor) from [Habib University](https://habib.edu.pk/), Pakistan 🇵🇰. He works as a Research Assistant in the Computer Science Department at [Habib University](https://habib.edu.pk/).
 
-I'm passionate about numerical/accelerated computing ⚡, machine/deep learning 🤖, and physics-informed machine learning 🌩️. During my undergrad, I explored various projects (available on my GitHub).
+He is passionate about numerical and accelerated computing ⚡, machine and deep learning 🤖, and physics-informed machine learning 🌩️. During his undergraduate studies, he explored various projects, which are available on his GitHub.
 
-Currently, I'm working on Bayesian Inference for Binary Black Holes with members of the LIGO community 🚀, developing a device-agnostic Python package, [GWKokab](https://github.com/gwkokab/gwkokab) 📦, using [JAX](https://jax.readthedocs.io/en/latest/installation.html).
+Currently, he is working on Bayesian inference for binary black holes with members of the LIGO community 🚀. He is also developing a device-agnostic Python package, [GWKokab](https://github.com/gwkokab/gwkokab) 📦, using [JAX](https://jax.readthedocs.io/en/latest/installation.html).
 
 Have an idea? Let's chat! 💭
 
-Find me on:
+Find him on:
 
--  [Platform X: @MeesumQ](https://twitter.com/MeesumQ)
--  [GitHub: @Qazalbash (you are here)](https://github.com/Qazalbash)
--  [LinkedIn](https://www.linkedin.com/in/meesumaliqazalbash/)
+- [Platform X: @MeesumQ](https://twitter.com/MeesumQ)
+- [LinkedIn](https://www.linkedin.com/in/meesumaliqazalbash/)
