@@ -6,7 +6,7 @@ He is passionate about numerical and accelerated computing ⚡, machine and deep
 
 Currently, he is working on Bayesian inference for binary black holes with members of the LIGO community 🚀. He is also developing a device-agnostic Python package, [GWKokab](https://github.com/gwkokab/gwkokab) 📦, using [JAX](https://jax.readthedocs.io/en/latest/installation.html).
 
-Have an idea? Let's chat! 💭
+Have an idea? Feel free to reach out! 💭
 
 Find him on:
 
